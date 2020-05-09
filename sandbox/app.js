@@ -7,8 +7,8 @@
 // greeting = "Hello";
 // console.log(greeting);
 
-let name = "John";
-console.log(name);
+// let name = "John";
+// console.log(name);
 
 // variable can have letters, numbers, _, and $  
 
